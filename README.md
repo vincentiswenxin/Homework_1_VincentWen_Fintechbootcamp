@@ -2,14 +2,14 @@
 # Case Study of "Alert Labs" 
 ![Alert Lab logo](https://cdn.shopify.com/s/files/1/2203/4635/t/2/assets/Alert_Labs_Logo_Stacked_Grey_Orange.png?v=682648006087532201)
 
-##Overview and Backgroud
+## Overview and Backgroud
 [Alert Labs](https://alertlabs.com/) is an IoT technology company focused on smart building sensors for water monitoring, leak and flood protection. Alert Labs was founded jointly by [George Tsintzouras](https://www.linkedin.com/in/georgetsintzouras/), the CEO of Alert Labs, and [Ruth Casselman](https://www.linkedin.com/in/ruth-casselman-b1588428/), the Chief Operating Officer at Alert Labs, and [Kevin Wright](https://www.linkedin.com/in/kevinrobertsonwright/),the Vice President of Engineering and CTO at Alert Labs, in 2015. The company is located in [Kitchiner, Ontario](https://en.wikipedia.org/wiki/Kitchener,_Ontario) allowing a cost effective work space, and also close to one of the biggest codo apartment market in Canada.
 
 Alert Labs designs and manufactures affordable and reliable sensor-networks based on their cutting edge property protection technology. Their products are easy to install and use. It only requirs a cellular network to provide real-time monitoring and 24/7 alerts with analytics to reduce property damage, repair costs and utility bills for residential and commercial properties.
 
 Back in 2015, Alert Labs received its seed round funding of CAD 70,000 from [Accelerator Center](https://www.acceleratorcentre.com/), which is the No.1 ranking private business accelerator in the Canada and have been named Accelerator of the Year in both 2018 and 2019. The Grant and Angel round funding was invested by [Communitech](https://www.crunchbase.com/organization/communitech) and [Golden Triangle Angle Network](https://www.crunchbase.com/organization/golden-triangle-angel-network) repectively with the funding amount undisclosed. In 2017, Alert Labs was funded by [Intact Ventures](https://www.crunchbase.com/organization/intact-ventures), [Hedgewood](https://www.crunchbase.com/organization/hedgewood), [Garage Capital](https://www.crunchbase.com/organization/garage-capital) and [BDC Venture Capital](https://www.crunchbase.com/organization/bdc-venture-capital), with the lead investor being Intact Ventures. The total disclosed funding amount is CAD 156,600.
 
-##Business Activities
+## Business Activities
 Alert Labs is building affordable and reliable sensor-networks for residential and commercial property owners. Its simple to deploy sensors that can be used on almost every water-involved appliance to monitor water leaks, floods, power issues, and other events. Also, alerts and data analytics can be delivered via cellular network to your smartphone and email. 
 
 After COVID-19 hit, many businesses are closed, and commercial properties are left unattended; Alerts Labs' smart sensors are designed to help the owner monitor their properties remotely. The owners can check the temperature, power usage, water usage and leak status and receive an alert on the phone or computer for any unusual activity. Doing so can reduce the risk of exposure for maintenance staff because they don't have to check around.
